@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/../OperatorPrecedence/.idea/OperatorPrecedence.iml" filepath="$PROJECT_DIR$/../OperatorPrecedence/.idea/OperatorPrecedence.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Strings/.idea/Strings.iml" filepath="$PROJECT_DIR$/../Strings/.idea/Strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/UserInput.iml" filepath="$PROJECT_DIR$/.idea/UserInput.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../WeightConvertor/.idea/WeightConvertor.iml" filepath="$PROJECT_DIR$/../WeightConvertor/.idea/WeightConvertor.iml" />
     </modules>
   </component>
 </project>
