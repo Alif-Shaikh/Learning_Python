@@ -8,5 +8,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="HelloWorld" />
     <orderEntry type="module" module-name="Calculator" />
+    <orderEntry type="module" module-name="Strings" />
   </component>
 </module>
