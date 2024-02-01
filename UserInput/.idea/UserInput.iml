@@ -11,5 +11,6 @@
     <orderEntry type="module" module-name="Strings" />
     <orderEntry type="module" module-name="ArithmeticOperators" />
     <orderEntry type="module" module-name="OperatorPrecedence" />
+    <orderEntry type="module" module-name="IfElse" />
   </component>
 </module>
