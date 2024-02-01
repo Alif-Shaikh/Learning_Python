@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/../Strings/.idea/Strings.iml" filepath="$PROJECT_DIR$/../Strings/.idea/Strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/UserInput.iml" filepath="$PROJECT_DIR$/.idea/UserInput.iml" />
       <module fileurl="file://$PROJECT_DIR$/../WeightConvertor/.idea/WeightConvertor.iml" filepath="$PROJECT_DIR$/../WeightConvertor/.idea/WeightConvertor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tuples/.idea/tuples.iml" filepath="$PROJECT_DIR$/../tuples/.idea/tuples.iml" />
     </modules>
   </component>
 </project>

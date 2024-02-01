@@ -18,5 +18,6 @@
     <orderEntry type="module" module-name="ListMethods" />
     <orderEntry type="module" module-name="ForLoop" />
     <orderEntry type="module" module-name="RangeFunction" />
+    <orderEntry type="module" module-name="tuples" />
   </component>
 </module>
