@@ -17,5 +17,6 @@
     <orderEntry type="module" module-name="List" />
     <orderEntry type="module" module-name="ListMethods" />
     <orderEntry type="module" module-name="ForLoop" />
+    <orderEntry type="module" module-name="RangeFunction" />
   </component>
 </module>
