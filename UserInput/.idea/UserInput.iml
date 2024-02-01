@@ -13,5 +13,6 @@
     <orderEntry type="module" module-name="OperatorPrecedence" />
     <orderEntry type="module" module-name="IfElse" />
     <orderEntry type="module" module-name="WeightConvertor" />
+    <orderEntry type="module" module-name="Loops" />
   </component>
 </module>
