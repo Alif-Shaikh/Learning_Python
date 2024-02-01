@@ -14,5 +14,7 @@
     <orderEntry type="module" module-name="IfElse" />
     <orderEntry type="module" module-name="WeightConvertor" />
     <orderEntry type="module" module-name="Loops" />
+    <orderEntry type="module" module-name="List" />
+    <orderEntry type="module" module-name="ListMethods" />
   </component>
 </module>

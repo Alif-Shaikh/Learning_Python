@@ -6,6 +6,8 @@
       <module fileurl="file://$PROJECT_DIR$/../Calculator/.idea/Calculator.iml" filepath="$PROJECT_DIR$/../Calculator/.idea/Calculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/../HelloWorld/.idea/HelloWorld.iml" filepath="$PROJECT_DIR$/../HelloWorld/.idea/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/../ConditionalStatements/.idea/IfElse.iml" filepath="$PROJECT_DIR$/../ConditionalStatements/.idea/IfElse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../List/.idea/List.iml" filepath="$PROJECT_DIR$/../List/.idea/List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ListMethods/.idea/ListMethods.iml" filepath="$PROJECT_DIR$/../ListMethods/.idea/ListMethods.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Loops/.idea/Loops.iml" filepath="$PROJECT_DIR$/../Loops/.idea/Loops.iml" />
       <module fileurl="file://$PROJECT_DIR$/../OperatorPrecedence/.idea/OperatorPrecedence.iml" filepath="$PROJECT_DIR$/../OperatorPrecedence/.idea/OperatorPrecedence.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Strings/.idea/Strings.iml" filepath="$PROJECT_DIR$/../Strings/.idea/Strings.iml" />
